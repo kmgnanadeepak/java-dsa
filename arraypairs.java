@@ -9,4 +9,4 @@ public class arraypairs {
             System.out.println();
         }
     }
-}
+} 
