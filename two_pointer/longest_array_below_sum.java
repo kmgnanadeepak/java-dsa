@@ -11,7 +11,7 @@ public class longest_array_below_sum {
                 if (sum > 14) {
                     break;
                 }
-                subarray = subaray+arr[j] + ",";
+                subarray = subarray+arr[j] + ",";
                 System.out.println("["+subarray+"]");
             }
         }
