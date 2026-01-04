@@ -12,7 +12,7 @@ public class longest_array_below_sum {
                     break;
                 }
                 subarray = subarray+arr[j] + ",";
-                System.out.println("["+subarray+"]");
+                System.out.println("["+subarray+"]")
             }
         }
     }
