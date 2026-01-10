@@ -7,7 +7,7 @@ public class twosum {
         for(int j=i+1;j<arr.length;j++){
 
         if(arr[i]+arr[j]==target){
-            System.out.println("["+arr[i]+","+arr[j]+"]");
+            System.out.println("["+i+","+j+"]");
             return;
         }
         } 
