@@ -20,4 +20,3 @@ public class arrayleftroataionk {
         }
     }
 }
-de
