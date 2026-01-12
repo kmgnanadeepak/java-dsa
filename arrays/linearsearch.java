@@ -7,5 +7,6 @@ public class linearsearch {
                 System.out.println("target found at : "+i);
             }
         }
+        System.out.println("not found");
     }
 }
