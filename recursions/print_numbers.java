@@ -1,8 +1,8 @@
 package recursions;
 
 public class print_numbers {
-   static int count=1;
     public static void fun(){
+        int count=1;
         if(count==11){
             return;
         }
