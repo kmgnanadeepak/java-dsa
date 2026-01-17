@@ -6,7 +6,7 @@ public class longest_substring_without_repetetion{
         for(int i=0;i<str.length();i++){
             String sub=" ";
            for(int j=i;j<str.length();j++){
-            sub=sub+charAt(j);
+            // sub=sub+charAt(j);
              System.out.println(sub);
            }
         }
