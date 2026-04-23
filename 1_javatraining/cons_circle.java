@@ -10,7 +10,6 @@ class cons{
     }
 }
 class cons1{
-    int areaR;
     int length;
     int width;
     cons1(int l,int w){
